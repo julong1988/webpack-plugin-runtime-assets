@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/julong1988/webpack-plugin-runtime-assets/compare/v1.0.4...v1.0.5) (2021-07-04)
+
+
+### Bug Fixes
+
+* **common:** semantic-release적용 & 배포 ([191b560](https://github.com/julong1988/webpack-plugin-runtime-assets/commit/191b5600114f434749aed969654cd17b65618cb3))
+
 ## [1.0.4](https://github.com/julong1988/webpack-plugin-runtime-assets/compare/v1.0.3...v1.0.4) (2021-07-04)
 
 
