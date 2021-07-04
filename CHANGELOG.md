@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/julong1988/webpack-plugin-runtime-assets/compare/v1.0.5...v1.0.6) (2021-07-04)
+
+
+### Bug Fixes
+
+* **ignore:** npmignore수정 ([5f14ed1](https://github.com/julong1988/webpack-plugin-runtime-assets/commit/5f14ed1387a8fdf7f0bfc0d0145d856589d02432))
+
 ## [1.0.5](https://github.com/julong1988/webpack-plugin-runtime-assets/compare/v1.0.4...v1.0.5) (2021-07-04)
 
 
