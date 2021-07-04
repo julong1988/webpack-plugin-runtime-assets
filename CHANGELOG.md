@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/julong1988/webpack-plugin-runtime-assets/compare/v1.0.1...v1.0.2) (2021-07-04)
+
+
+### Bug Fixes
+
+* **package:** null ([1eea0c6](https://github.com/julong1988/webpack-plugin-runtime-assets/commit/1eea0c6cf6c049c69c2448688677eef0c4113c26))
+
 ## [1.0.1](https://github.com/julong1988/webpack-plugin-runtime-assets/compare/v1.0.0...v1.0.1) (2021-07-04)
 
 
