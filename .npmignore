@@ -1,0 +1,5 @@
+./scripts
+./src
+.releaserc.json
+tsconfig.json
+tsconfig.es.json

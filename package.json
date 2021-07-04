@@ -1,0 +1,31 @@
+{
+  "name": "@julong/webpack-plugin-runtime-assets",
+  "version": "1.0.4",
+  "description": "",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "scripts": {
+    "build": "jnpkg build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/julong1988/webpack-plugin-runtime-assets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/julong1988/webpack-plugin-runtime-assets/issues",
+    "email": "julong1988@naver.com"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/julong1988",
+  "devDependencies": {
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/git": "^9.0.0",
+    "semantic-release": "^17.4.4",
+    "typescript": "^4.3.4"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
