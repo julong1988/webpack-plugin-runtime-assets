@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/julong1988/webpack-plugin-runtime-assets/compare/v1.0.2...v1.0.3) (2021-07-04)
+
+
+### Bug Fixes
+
+* **common:** 불필요한 파일 삭제 ([8140fdf](https://github.com/julong1988/webpack-plugin-runtime-assets/commit/8140fdfca865fb5055512640353f1dca65ea8f89))
+
 ## [1.0.2](https://github.com/julong1988/webpack-plugin-runtime-assets/compare/v1.0.1...v1.0.2) (2021-07-04)
 
 
