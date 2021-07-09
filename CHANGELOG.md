@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/julong1988/webpack-plugin-runtime-assets/compare/v1.0.6...v1.0.7) (2021-07-09)
+
+
+### Bug Fixes
+
+* **common:** rome툴 적용 ([e95b1ac](https://github.com/julong1988/webpack-plugin-runtime-assets/commit/e95b1ac69819071373fc906b18154aa65ebf0721))
+
 ## [1.0.6](https://github.com/julong1988/webpack-plugin-runtime-assets/compare/v1.0.5...v1.0.6) (2021-07-04)
 
 
