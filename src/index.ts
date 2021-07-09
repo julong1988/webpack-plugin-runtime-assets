@@ -1,4 +1,4 @@
-import { Compilation, Compiler } from "webpack";
+import {Compiler} from "webpack";
 
 interface Iassets {
 	js: Array<string>;
