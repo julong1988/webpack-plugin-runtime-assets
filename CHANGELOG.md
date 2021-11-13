@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/jl917/webpack-plugin-runtime-assets/compare/v1.0.8...v1.0.9) (2021-11-13)
+
+
+### Bug Fixes
+
+* julong1988 => jl917 ([592e833](https://github.com/jl917/webpack-plugin-runtime-assets/commit/592e8337b279b91c03ada3a171ef7863eb5b2833))
+
 ## [1.0.8](https://github.com/jl917/webpack-plugin-runtime-assets/compare/v1.0.7...v1.0.8) (2021-07-09)
 
 
