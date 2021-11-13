@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/julong1988/webpack-plugin-runtime-assets.git"
+    "url": "https://github.com/jl917/webpack-plugin-runtime-assets.git"
   },
   "bugs": {
-    "url": "https://github.com/julong1988/webpack-plugin-runtime-assets/issues",
+    "url": "https://github.com/jl917/webpack-plugin-runtime-assets/issues",
     "email": "julong1988@naver.com"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/julong1988",
+  "homepage": "https://github.com/jl917",
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/git": "^9.0.0",
