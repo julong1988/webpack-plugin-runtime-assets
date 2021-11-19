@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/jl917/webpack-plugin-runtime-assets/compare/v1.0.9...v1.0.10) (2021-11-19)
+
+
+### Bug Fixes
+
+* package 라이센스 수정 ISC => MIT ([4763b32](https://github.com/jl917/webpack-plugin-runtime-assets/commit/4763b321f74b0a88adeb6936ffbd134fa0e27413))
+
 ## [1.0.9](https://github.com/jl917/webpack-plugin-runtime-assets/compare/v1.0.8...v1.0.9) (2021-11-13)
 
 
