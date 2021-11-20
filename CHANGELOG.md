@@ -1,3 +1,10 @@
+## [1.0.11](https://github.com/jl917/webpack-plugin-runtime-assets/compare/v1.0.10...v1.0.11) (2021-11-20)
+
+
+### Bug Fixes
+
+* npmignore ([7224acb](https://github.com/jl917/webpack-plugin-runtime-assets/commit/7224acb68e072d23cab7bd1fc6e8a5ea89641557))
+
 ## [1.0.10](https://github.com/jl917/webpack-plugin-runtime-assets/compare/v1.0.9...v1.0.10) (2021-11-19)
 
 
